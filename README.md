@@ -1,16 +1,5 @@
-# bubble_tea_app
+<img width="193" alt="image" src="https://user-images.githubusercontent.com/114337820/233941418-bbbb2bdb-1fd9-4d32-bca2-ad847419c2d3.png">
 
-A new Flutter project.
+<img width="194" alt="image" src="https://user-images.githubusercontent.com/114337820/233941535-c635d444-d266-48c0-89cc-4ec1bfe7e2b6.png">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="192" alt="image" src="https://user-images.githubusercontent.com/114337820/233941464-f331b198-cdb2-4365-97e0-6f1d6f48e1a9.png">
